@@ -1,0 +1,14 @@
+.centered-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card-progress {
+    height: 5px;
+}
+
+.card-custom {
+    background-color: #f8f9fa; /* Gris clair */
+    border: 1px solid #dee2e6; /* Gris moyen pour la bordure */
+}
